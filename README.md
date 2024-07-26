@@ -1,4 +1,4 @@
-Here's a revised and shortened version of the README file with the updated content:
+Here's a revised and shortened version of the README file with the updated content: 
 
 ---
 
