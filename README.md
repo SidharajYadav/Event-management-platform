@@ -9,13 +9,7 @@ Here's a revised and shortened version of the README file with the updated conte
     </a>
   <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-Next_JS_14-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="Next.js" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD" alt="Stripe" />
-  </div>
-
-  <h3 align="center">A Full Stack Next 14 Events App</h3>
+h3 align="center">A Full Stack Next 14 Events App</h3>
 
 ## 📋 Table of Contents
 
@@ -26,11 +20,7 @@ Here's a revised and shortened version of the README file with the updated conte
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
 
-## 🚨 Tutorial
-
 This project is built following a detailed tutorial available on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-<a href="https://youtu.be/zgGhzuBZOQg" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## 🤖 Introduction
 
@@ -110,16 +100,5 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the project.
-
-## 🕸️ Snippets
-
-[Provide any useful code snippets here]
-
-## 🔗 Links
-
-- [JavaScript Mastery YouTube](https://www.youtube.com/@javascriptmastery/videos)
-- [Discord Community](https://discord.com/invite/n6EdbFJ)
-
----
 
 Feel free to update or adjust this as needed for your project!
