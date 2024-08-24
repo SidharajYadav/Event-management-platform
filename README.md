@@ -9,22 +9,6 @@ Here's a revised and shortened version of the README file with the updated conte
     </a>
   <br />
 
-h3 align="center">A Full Stack Next 14 Events App</h3>
-
-## 📋 Table of Contents
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-
-This project is built following a detailed tutorial available on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-## 🤖 Introduction
-
-A comprehensive event management platform using Next.js 14. Manage and explore global events, purchase tickets, and organize your own events with secure Stripe payments.
 ## ⚙️ Tech Stack
 
 - Node.js
