@@ -9,7 +9,7 @@ import { DeleteConfirmation } from './DeleteConfirmation'
 type CardProps = {
   event: IEvent,
   hasOrderLink?: boolean,
-  hidePrice?: boolean
+  hidePrice?: boolean 
 }
 
 const Card = ({ event, hasOrderLink, hidePrice }: CardProps) => {
