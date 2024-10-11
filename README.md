@@ -1,7 +1,7 @@
 Here's a revised and shortened version of the README file with the updated content:  
  Live Project on Vercel -- https://event-management-platform-4a77syhxl-siddharaj-yadavs-projects.vercel.app/
 ---  
- 
+  
 <div align="center">
   <br /> 
     <a href="" target="_blank"> 
