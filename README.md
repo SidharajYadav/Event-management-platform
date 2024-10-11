@@ -3,7 +3,7 @@ Here's a revised and shortened version of the README file with the updated conte
 ---  
  
 <div align="center">
-  <br />
+  <br /> 
     <a href="" target="_blank"> 
       <img src="https://github.com/SidharajYadav/Event-management-platform/blob/main/public/assets/images/Event-Home.jpg" alt="Project Banner">
     </a>
