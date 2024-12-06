@@ -11,7 +11,7 @@ import { Separator } from "../ui/separator"
 import NavItems from "./NavItems"
 
 
-const MobileNav = () => {
+const MobileNav = () => { 
   return (
     <nav className="md:hidden">
       <Sheet>
