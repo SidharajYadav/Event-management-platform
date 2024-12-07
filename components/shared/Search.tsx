@@ -1,6 +1,6 @@
 "use client"
 
-import Image from 'next/image';
+import Image from 'next/image'; 
 import { useEffect, useState } from 'react'
 import { Input } from '../ui/input';
 import { formUrlQuery, removeKeysFromQuery } from '@/lib/utils';
