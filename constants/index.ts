@@ -15,7 +15,7 @@ export const headerLinks = [
   
 export const eventDefaultValues = {
   title: '',
-  description: '',
+  description: '', 
   location: '',
   imageUrl: '',
   startDateTime: new Date(),
