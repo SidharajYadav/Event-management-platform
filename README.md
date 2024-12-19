@@ -8,7 +8,7 @@ Here's a revised and shortened version of the README file with the updated conte
       <img src="https://github.com/SidharajYadav/Event-management-platform/blob/main/public/assets/images/Event-Home.jpg" alt="Project Banner">
     </a>
   <br />
-
+ 
 ## ⚙️ Tech Stack
 
 - Node.js
